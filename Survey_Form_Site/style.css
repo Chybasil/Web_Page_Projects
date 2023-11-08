@@ -1,0 +1,38 @@
+body {
+  margin-left: 20;
+  margin-right: 20;
+  margin-top: 20;
+  margin-bottom: 20;
+  background-color: rgba(9, 42, 109, 0.918);
+  color: #ffffff;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+form { background-color: #25256d;
+  margin: 0.5rem;
+  padding: 1em;
+}
+
+h1, p {
+  text-align: center;
+}
+
+select, .inline {
+  width: 100%
+}
+
+textarea {
+  width: 100%
+}
+
+button {
+  background-color: rgb(100, 255, 100, 70%);
+  font-size: 1.1rem;
+  width: 100%;
+  border: none;
+
+}
